@@ -1,6 +1,9 @@
 # 🐍 IDET AI/ML Masterclass - Python Basics
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
@@ -49,10 +52,22 @@ This isn't your typical boring programming course - we're talking about a **hand
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skills
 
+**Primary Language:**
 ```
 Python 3.11+
+```
+
+**Additional Languages:**
+```
+Go (Golang) - System Programming & Microservices
+Rust - Performance & Memory Safety
+R - Statistical Computing & Data Analysis
+```
+
+**Frameworks & Tools:**
+```
 Jupyter Notebook
 NumPy
 Pandas
